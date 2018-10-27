@@ -1,0 +1,51 @@
+{
+  "name": "email-template",
+  "version": "0.0.1",
+  "description": "commit init",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newyorrker/email-template.git"
+  },
+  "keywords": [
+    "sass",
+    "webpack",
+    "gulp",
+    "bundl"
+  ],
+  "author": "newyorrker",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/newyorrker/email-template/issues"
+  },
+  "homepage": "https://github.com/newyorrker/email-template#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.49",
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "autoprefixer": "^9.0.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.0-beta.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.26.3",
+    "css-mqpacker": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-email-builder": "^3.0.0",
+    "gulp-eslint": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-inline-css": "^3.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify-es": "^1.0.4",
+    "postcss-csso": "^3.0.0",
+    "require-dir": "^1.0.0",
+    "run-sequence": "^2.2.1",
+    "webpack": "^4.16.1",
+    "webpack-stream": "^5.0.0"
+  }
+}
