@@ -1,9 +1,54 @@
-html {
-	// margin-top: 20px;
+td {
+	font-family: 'Roboto', sans-serif;
 }
-* {
-	font-family: sans-serif;
+.title {
+	font-weight: 300;
+	padding-bottom: 10px;
+	text-transform: uppercase;
 }
-.btn {
-	border: 1px red solid;
+.title,
+.main-price {
+	font-size: 21px;
+}
+.main-price {
+	font-weight: bold;
+	padding-bottom: 22px;
+}
+.card-item {
+	border: 1px solid #F3F1F1;
+	padding-bottom: 30px;
+}
+.card-item-header {
+	background-color: #F5F8F9;
+	padding-top: 20px;
+}
+.main-row, .minor-row {
+	padding-left: 25px;
+}
+
+.minor-row-item {
+	padding-top: 18px;
+}
+
+.minor-row-title {
+	color: #808080;
+	font-size: 13px;
+}
+.minor-row-price {
+	font-size: 18px;
+	padding-top: 5px;
+	padding-bottom: 13px;
+}
+.tender-card-btn {
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 14px;
+	color: #2EA39A;
+	border: 1px solid #35C6BB;
+	text-decoration: none;
+}
+.minor-row-btn-container {
+
 }
